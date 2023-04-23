@@ -1,4 +1,4 @@
-import { add } from '../math';
+import { add } from '../../math';
 
 // comment
 describe('Addition testing', () => {
